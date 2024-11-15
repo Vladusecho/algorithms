@@ -1,2 +1,2 @@
-# algorithms
-Here we can see my projects on С++ and Python for algorithms and data structures lessons from my University RTU MIREA.
+<h1>Все практические работы с заданиями разделены по веткам, приятного чтения.</h1>
+<p>В каждой ветке вы найдете обзорный README файл со скриншотами всех работ и их выводами.</p>
